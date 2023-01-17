@@ -1,7 +1,7 @@
 # Projekt_AI_sem3
 
 ## Table of contents
-* [Ogólne informacje](#Ogólne informacje)
+* ['Ogólne informacje'](#'Ogólne informacje')
 * [Technologie](#Technologie)
 
 ## Ogólne informacje
