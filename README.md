@@ -1,10 +1,10 @@
 # Projekt_AI_sem3
 
 ## Table of contents
-* ['Ogólne informacje'](#'Ogólne informacje')
+* [Informacje](#Informacje)
 * [Technologie](#Technologie)
 
-## Ogólne informacje
+## Informacje
 Projekt ma na celu nauczyć model, który będzie przewidywał dataset dotyczący cukrzycy.  
 
 ## Technologie
