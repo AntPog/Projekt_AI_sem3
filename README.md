@@ -3,6 +3,7 @@
 ## Table of contents
 * [Informacje](#Informacje)
 * [Technologie](#Technologie)
+* [Dataset](#Dataset)
 
 ## Informacje
 Projekt ma na celu nauczyć model, który będzie przewidywał dataset dotyczący cukrzycy.  
@@ -10,5 +11,8 @@ Projekt ma na celu nauczyć model, który będzie przewidywał dataset dotycząc
 ## Technologie
 Nasz projekt jest zaprojektowany za pomocą:
 * Python version 3.9
-* dataset diabetes.csv
 * Visual Studio Code 2022
+
+## Dataset
+Wkorzystany do projektu dataset:
+* diabetes.csv
