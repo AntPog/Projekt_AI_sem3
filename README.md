@@ -4,6 +4,7 @@
 * [Informacje](#Informacje)
 * [Technologie](#Technologie)
 * [Dataset](#Dataset)
+* [Status](#Status)
 
 ## Informacje
 Projekt ma na celu nauczyć model, który będzie przewidywał dataset dotyczący cukrzycy.  
@@ -16,3 +17,6 @@ Nasz projekt jest zaprojektowany za pomocą:
 ## Dataset
 Wkorzystany do projektu dataset:
 * diabetes.csv
+
+## Status
+Nasz projekt jest skończony :)
